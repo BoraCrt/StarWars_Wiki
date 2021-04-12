@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StarWiki</string>
+
+    <!--Common-->
+    <string name="error_network">Please check your Internet Connection.</string>
+    <string name="error_unexpected_message">Something went wrong, please try again.</string>
+
+    <!--  Search screen -->
+    <string name="search_characters">Search characters</string>
+    <string name="hel_lo">Hello There!</string>
+    <string name="may_be">May Be The Force With You!</string>
+    <string name="no_results">No Results</string>
+    <string name="no_results_description">Wars do not make one great!</string>
+
+    <!--  Details screen -->
+    <string name="population_value">%s\'s planet population is %s</string>
+    <string name="movies_this_character_appeared_in">Movies this character appeared in</string>
+    <string name="name">Name</string>
+    <string name="height">Height</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="language">Language</string>
+    <string name="species_of_this_character">Species of this character</string>
+    <string name="height_in_cm_and_feet">%s / %s</string>
+    <string name="hey_there">hey_there</string>
+
+</resources>
